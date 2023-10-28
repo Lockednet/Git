@@ -9,7 +9,7 @@
             "color": "#80BB1CD4",
             "created_at": "2023-07-24 16:38:13",
             "id": 5467,
-            "name": "CATEGORIA 1 EXEMPLO MOD",
+            "name": "CATEGORIA 1",
             "sorter": 3,
             "status": "ACTIVE",
             "updated_at": "2023-07-24 16:38:13",
